@@ -17,6 +17,7 @@
     "express": "^4.17.1",
     "express-session": "^1.17.1",
     "graphql": "^15.1.0",
+    "graphql-query-complexity": "^0.6.0",
     "ioredis": "^4.17.3",
     "nodemailer": "^6.4.10",
     "pg": "^8.2.1",
